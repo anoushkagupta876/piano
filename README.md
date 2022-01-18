@@ -1,2 +1,2 @@
 # piano
-[piano](https://anoushkagupta876.github.io/piano/)
+[Piano](https://anoushkagupta876.github.io/piano/)
